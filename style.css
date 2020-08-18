@@ -16,6 +16,10 @@ Backtrace:
 /usr/bin/sass:8:in `<main>'
 */
 body {
-  background-image: linear-gradient(#aae09d, #dbd6c5); }
+  background-image: linear-gradient(#aae09d, #dbd6c5);
+  color: darkslategrey; }
+
+h3 {
+  font-family: 'Pangolin', cursive; }
 
 /*# sourceMappingURL=style.css.map */
